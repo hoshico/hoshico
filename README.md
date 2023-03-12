@@ -1,1 +1,1 @@
-https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=hoshico&theme=dracula
+(https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=hoshico&theme=dracula)
